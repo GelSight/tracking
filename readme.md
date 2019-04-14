@@ -57,6 +57,7 @@ python src/tracking.py calibrate
 And the mask should looks like:
 
 ![](results/mask.gif)
+![](results/marker_center.gif)
 
 
 **Set Parameters**:

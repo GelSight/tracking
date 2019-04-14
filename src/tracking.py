@@ -15,8 +15,8 @@ if len(sys.argv) > 1:
 gelsight_version = 'Bnz'
 # gelsight_version = 'HSR'
 
-cap = cv2.VideoCapture("data/GelSight_Twist_Test.mov")
-# cap = cv2.VideoCapture("data/GelSight_Shear_Test.mov")
+# cap = cv2.VideoCapture("data/GelSight_Twist_Test.mov")
+cap = cv2.VideoCapture("data/GelSight_Shear_Test.mov")
 # cap = cv2.VideoCapture(1)
 
 
