@@ -6,26 +6,15 @@
 * pybind11
 * numpy
 
-
-For Ubuntu:
-
 ```
-sudo apt-get install python-opencv
-pip install pybind11 numpy
-```
-
-For Mac:
-
-```
-brew install opencv
-pip install pybind11 numpy
+pip3 install pybind11 numpy opencv-python
 ```
 
 ## Example
 
 ```
 make
-python src/tracking.py
+python3 src/tracking.py
 ```
 
 ### Shear force test
